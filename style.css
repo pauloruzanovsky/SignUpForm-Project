@@ -1,6 +1,6 @@
 @font-face {
     font-family: logo-font;
-    src: url(../../fonts/LeagueGothic-Regular-VariableFont_wdth.ttf)
+    src: url(./fonts/LeagueGothic-Regular-VariableFont_wdth.ttf)
 
 }
 
@@ -106,7 +106,7 @@ button {
     height: 2rem;
     border-radius: 5px;
     font-family: logo-font;
-    letter-spacing: 1px;
+    letter-spacing: 0.5px;
     font-size: 20px;
 }
 
